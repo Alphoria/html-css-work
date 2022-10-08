@@ -1,4 +1,4 @@
-# Basic HTML & CSS refresher
+# HTML & CSS work
 
 Some notes [HTML & CSS lessons from here](http://learn.shayhowe.com/html-css/)
 
